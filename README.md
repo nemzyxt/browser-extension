@@ -2,6 +2,10 @@
 
 A simple Chrome Browser extension
 
+## Screenshots
+
+![img](https://github.com/nemzyxt/browser-extension/blob/main/scrshot/pic.png?raw=true)
+
 ## Usage
 
 - Open Chrome browser and navigate to :
