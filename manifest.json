@@ -11,7 +11,7 @@
             "128": "icon128.png"
         }
     },
-    "permissions_tab": [
+    "permissions": [
         "activeTab"
     ]
 }
